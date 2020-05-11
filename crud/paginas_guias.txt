@@ -1,0 +1,7 @@
+https://bezkoder.com/django-angular-crud-rest-framework/
+
+Django:
+https://bezkoder.com/django-crud-mysql-rest-framework/
+
+Angular:
+https://bezkoder.com/angular-crud-app/
